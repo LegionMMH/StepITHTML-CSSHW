@@ -1,0 +1,26 @@
+.header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: whitesmoke;
+}
+
+.code{
+    background-color: lightgray;
+    color: red;
+}
+
+.commonText{
+    color:black;
+}
+
+.tag{
+    background-color: lightgray;
+    color: lightslategray;
+}
